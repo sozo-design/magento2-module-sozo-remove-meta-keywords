@@ -1,6 +1,4 @@
 # Sozo_RemoveMetaKeywords module
-
-# Sozo_RemoveMetaKeywords module
 The Sozo_RemoveMetaKeywords module removes the redundant `<meta name="keywords">` tag from the head section of your Magento website.
 
 This module should work with other modules that manipulate Magento for SEO purposes. The module has only been tested with Mirasvit SEO module so far.
