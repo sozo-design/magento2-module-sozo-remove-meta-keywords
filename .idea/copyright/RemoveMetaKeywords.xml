@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value=" SOZO Design Ltd&#10;&#10; NOTICE OF LICENSE&#10;&#10; This source file is subject to the Open Software License (OSL 3.0)&#10; that is bundled with this package in the file LICENSE.&#10; It is also available through the world-wide-web at this URL:&#10; http://opensource.org/licenses/osl-3.0.php&#10;&#10; @category    SOZO Design Ltd&#10; @package     Sozo_RemoveMetaKeywords&#10; @copyright   Copyright (c) SOZO Design Ltd (https://sozodesign.co.uk)&#10; @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; " />
+    <option name="myName" value="RemoveMetaKeywords" />
+  </copyright>
+</component>

@@ -1,0 +1,29 @@
+{
+  "name": "sozo/module-remove-meta-keywords",
+  "description": "Remove the redundant Meta Keywords from the site head output",
+  "homepage": "https://github.com/sozo-design/magento2-module-sozo-remove-meta-keywords",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": ">=103.0.3"
+  },
+  "authors": [
+    {
+      "name": "Clive Walkden",
+      "email": "clive@sozodesign.co.uk",
+      "homepage": "https://sozodesign.co.uk",
+      "role": "Developer"
+    }
+  ],
+  "readme": "README.md",
+  "license": [
+    "OSL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Sozo\\RemoveMetaKeywords\\": ""
+    }
+  }
+}
