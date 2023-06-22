@@ -1,5 +1,5 @@
 {
-  "name": "sozo/module-remove-meta-keywords",
+  "name": "sozodesign/magento2-module-sozo-remove-meta-keywords",
   "description": "Remove the redundant Meta Keywords from the site head output",
   "homepage": "https://github.com/sozo-design/magento2-module-sozo-remove-meta-keywords",
   "type": "magento2-module",

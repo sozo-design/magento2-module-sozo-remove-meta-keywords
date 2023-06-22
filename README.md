@@ -6,7 +6,7 @@ This module should work with other modules that manipulate Magento for SEO purpo
 ## Installation details
 
 To install the module on your Magento site follow these steps:
-1. Using Composer, run `composer require sozo/module-remove-meta-keywords`
+1. Using Composer, run `composer require sozodesign/magento2-module-sozo-remove-meta-keywords`
 2. Run `bin/magento setup:upgrade`
 3. Run `bin/magento setup:di:compile`
 4. Run `bin/magento setup:static-content:deploy`
